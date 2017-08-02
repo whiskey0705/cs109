@@ -1,0 +1,9 @@
+myvenv/
+__pycache__/
+
+#Ipython
+.ipynb_checkpoints/
+
+
+#Temporary data
+tempdata/
